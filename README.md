@@ -173,9 +173,7 @@ Lists all pending requests for a given `user_ref`.
 
 ## Demo
 
-Screenshots and a demo recording will be added here.
-
-See [`docs/screenshots/`](docs/screenshots/) for placeholders.
+![mis-showcase demo](docs/screenshots/mis-showcase-demo.gif)
 
 ## Relationship to mis-docs
 
