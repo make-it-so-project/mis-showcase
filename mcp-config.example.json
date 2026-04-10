@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "make-it-so": {
+      "command": "node",
+      "args": ["/path/to/mis-showcase/packages/mcp-server/dist/stdio.js"],
+      "env": {
+        "APPROVAL_CORE_URL": "http://localhost:4000"
+      }
+    }
+  }
+}
