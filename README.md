@@ -5,6 +5,8 @@
 > the core idea and is **not** aligned with the current architecture decisions documented in
 > [mis-docs](https://github.com/make-it-so-project/mis-docs). Treat it as a working sketch,
 > not a reference implementation.
+>
+> For the public project site see [mis-website](https://github.com/make-it-so-project/mis-website).
 
 ---
 
